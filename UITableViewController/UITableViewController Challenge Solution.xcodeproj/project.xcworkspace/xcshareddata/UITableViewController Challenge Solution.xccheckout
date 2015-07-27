@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F071EAD1-5A3E-4525-93E2-9DFCBDA4891A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UITableViewController Challenge Solution</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C9BA1234F4B9B2FD825E76FC5C0FE4334B2D87CC</key>
+		<string>https://github.com/giorell/Out_Of_This_World.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UITableViewController/UITableViewController Challenge Solution.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C9BA1234F4B9B2FD825E76FC5C0FE4334B2D87CC</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/giorell/Out_Of_This_World.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C9BA1234F4B9B2FD825E76FC5C0FE4334B2D87CC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C9BA1234F4B9B2FD825E76FC5C0FE4334B2D87CC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GitHub</string>
+		</dict>
+	</array>
+</dict>
+</plist>
